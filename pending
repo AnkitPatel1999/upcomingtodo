@@ -1,0 +1,11 @@
+common_head
+	metas
+	GA config
+
+nginx congix
+	404 page
+	50x page
+
+favicon
+
+upload imgage to aws
